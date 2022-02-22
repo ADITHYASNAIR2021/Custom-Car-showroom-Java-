@@ -30,7 +30,7 @@ and so can enter the Admin portal .
 If needed to know more on this project contact:
 Adithya S Nair : Adithyasnair2021@gmail.com
 
-People contrinuted for making of project is :
+People contributed for making of project is :
 
 * Adithya S Nair 
 * Adithya Krishna
