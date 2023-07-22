@@ -4,7 +4,7 @@ This project consist of the source code for a Custom Car Showroom written in JAV
 ----------------------------------------------------------------------------------------
 This project was written in accordance to create a DBMS in java language.
 
-This project aims at implementing a database of sorts using files to store information of a potential automobile showroom that sells cars.
+The aim of the project is to implement a database of sorts using files to store information of a potential automobile showroom that sells cars.
 
 The project has three access routes: admin, employee, customer.
 
